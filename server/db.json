@@ -1,5 +1,27 @@
 {
-    "streams": [
-
-    ]
+  "streams": [
+    {
+      "title": "MyTitle",
+      "description": "Super duper stream",
+      "id": 1
+    },
+    {
+      "title": "Me Who did it",
+      "description": "I did it by my own hands",
+      "userId": "104896476061367835944",
+      "id": 2
+    },
+    {
+      "title": "lolo",
+      "description": "dgdfgdfgdfgdfg dfgdfg ",
+      "userId": "104896476061367835944",
+      "id": 3
+    },
+    {
+      "title": "another stream by me",
+      "description": "WHAT!!!!",
+      "userId": "104896476061367835944",
+      "id": 4
+    }
+  ]
 }
